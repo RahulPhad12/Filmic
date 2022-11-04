@@ -1,1 +1,1 @@
-live=> filmic.netlify.app
+live(filmic.netlify.app)
